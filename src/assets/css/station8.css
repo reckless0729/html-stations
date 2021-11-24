@@ -2,25 +2,26 @@ body{
   background-color: #C4C4C4;
 }
 img{
-  width: 288px;
+  width: 243px;
   height: 182px;
   margin-bottom: 5px;
   alt: "test";
 }
-.card{
+.Flexbox{
   padding: 5px;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 .card__title{
   color: #282828;
   font-size: 14px;
+  background-color: #ffffff;
 }
 .card__description{
   color: #282828;
   font-size: 12px;
+  background-color: #ffffff;
 }
 header{
   background-color: #ffffff;
